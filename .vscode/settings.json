@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "cassert": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
