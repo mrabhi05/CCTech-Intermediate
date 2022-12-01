@@ -1,5 +1,6 @@
 *.exe
 .vs
+.vscode
 3-echoprogram
 4-closestToZero
 5-6-calculator
