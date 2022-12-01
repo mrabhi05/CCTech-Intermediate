@@ -1,1 +1,11 @@
-echoprogram\output.exe
+*.exe
+3-echoprogram
+4-closestToZero
+5-6-calculator
+7-covertFloat
+8-simpleInterestCalculator
+9-squareroot
+10-unixprogram
+source.h
+test.cpp
+test1.cpp
